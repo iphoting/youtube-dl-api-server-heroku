@@ -19,6 +19,6 @@ scipy==0.13.0b1
 Twisted==13.2.0
 Werkzeug==0.10.1
 xattr==0.6.4
-youtube-dl==2015.2.26.2
+youtube-dl==2015.2.28
 youtube-dl-server==0.1.2
 zope.interface==4.1.1
