@@ -17,12 +17,12 @@ A ready-for-Heroku [youtube-dl](http://rg3.github.io/youtube-dl/) [REST API serv
 
 ## Updating Python packages
 
-0. Setup virtualenv and activate it.
+0. Setup virtualenvwrapper and activate it. Install pip-tools (future branch).
 
-1. Install the latest packages: `pip install -U -r requirements-orig.txt`.
+1. Update to the latest packages: `pip-compile`.
 
-2. Lockdown the installed packages: `pip freeze > requirements.txt`.
+2. Clear the environment and reload packages: `wipeenv ; pip install -r requirements.txt`.
 
-3. Commit changes: `git commit -a -m "Updated packages."`.
+3. Commit changes: `git commit -m "Updated packages." requirements.txt`.
 
 4. Push to deploy changes: `git push`.
