@@ -5,4 +5,4 @@ jinja2==2.7.3
 markupsafe==0.23
 werkzeug==0.10.4
 youtube-dl-server==0.1.2
-youtube-dl==2015.04.03
+youtube-dl==2015.04.09
