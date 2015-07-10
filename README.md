@@ -17,7 +17,7 @@ A ready-for-Heroku [youtube-dl](http://rg3.github.io/youtube-dl/) [REST API serv
 
 ## Updating Python packages
 
-0. Setup virtualenvwrapper and activate it. Install pip-tools (future branch).
+0. Setup virtualenvwrapper and activate it. Install [pip-tools (future branch)](https://github.com/nvie/pip-tools/tree/future#installation).
 
 1. Update to the latest packages: `pip-compile`.
 
