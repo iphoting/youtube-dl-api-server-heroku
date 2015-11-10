@@ -9,6 +9,6 @@ gunicorn==19.3.0
 itsdangerous==0.24        # via flask
 jinja2==2.8               # via flask
 markupsafe==0.23          # via jinja2
-werkzeug==0.10.4          # via flask
+werkzeug==0.11            # via flask
 youtube-dl-server==0.2
-youtube-dl==2015.10.24    # via youtube-dl-server
+youtube-dl==2015.11.10    # via youtube-dl-server
