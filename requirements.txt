@@ -5,10 +5,10 @@
 #    pip-compile requirements.in
 #
 flask==0.10.1             # via youtube-dl-server
-gunicorn==19.3.0
+gunicorn==19.4.1
 itsdangerous==0.24        # via flask
 jinja2==2.8               # via flask
 markupsafe==0.23          # via jinja2
-werkzeug==0.11            # via flask
+werkzeug==0.11.2          # via flask
 youtube-dl-server==0.2
-youtube-dl==2015.11.10    # via youtube-dl-server
+youtube-dl==2015.12.5     # via youtube-dl-server
