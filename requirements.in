@@ -1,2 +1,2 @@
-youtube_dl_server
+youtube_dl_server>=0.3
 gunicorn
