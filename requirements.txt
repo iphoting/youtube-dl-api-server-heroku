@@ -12,4 +12,4 @@ Jinja2==2.8               # via flask
 MarkupSafe==0.23          # via jinja2
 Werkzeug==0.11.10         # via flask
 youtube-dl-server==0.3
-youtube-dl==2016.7.30     # via youtube-dl-server
+youtube-dl==2016.8.7      # via youtube-dl-server
