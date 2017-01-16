@@ -4,12 +4,12 @@
 #
 #    pip-compile --output-file requirements.txt requirements.in
 #
-click==6.6                # via flask
-Flask==0.11.1             # via youtube-dl-server
+click==6.7                # via flask
+Flask==0.12               # via youtube-dl-server
 gunicorn==19.6.0
 itsdangerous==0.24        # via flask
-Jinja2==2.8               # via flask
+Jinja2==2.9.4             # via flask
 MarkupSafe==0.23          # via jinja2
-Werkzeug==0.11.11         # via flask
+Werkzeug==0.11.15         # via flask
 youtube-dl-server==0.3
-youtube-dl==2016.10.21.1  # via youtube-dl-server
+youtube-dl==2017.1.14     # via youtube-dl-server
