@@ -1,0 +1,27 @@
+{
+    "default": {
+        "MarkupSafe": "==0.23",
+        "Jinja2": "==2.9.4",
+        "gunicorn": "==19.6.0",
+        "Werkzeug": "==0.11.15",
+        "Flask": "==0.12",
+        "youtube-dl-server": "==0.3",
+        "itsdangerous": "==0.24",
+        "youtube-dl": "==2017.1.22",
+        "click": "==6.7",
+        "youtube_dl_server": ">=0.3"
+    },
+    "develop": {},
+    "_meta": {
+        "sources": [
+            {
+                "url": "https://pypi.org/",
+                "verify_ssl": true
+            }
+        ],
+        "requires": {
+            "python_version": "2.7"
+        },
+        "Pipfile-sha256": "09cfeecf648387758f3a8b068b99edb7fd348666195ab794f9004f58c9f62618"
+    }
+}
