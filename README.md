@@ -3,6 +3,10 @@ A ready-for-Heroku [youtube-dl](http://rg3.github.io/youtube-dl/) [REST API serv
 
 ## Deploying to Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+### Manually
+
 0. Ensure you have the [Heroku toolbelt](https://toolbelt.heroku.com) installed and set-up.
 
 1. Clone this repo: `git clone https://github.com/iphoting/youtube-dl-api-server-heroku`.
@@ -13,7 +17,7 @@ A ready-for-Heroku [youtube-dl](http://rg3.github.io/youtube-dl/) [REST API serv
 
 4. Check its runtime logs: `heroku logs`, and status: `heroku ps`.
 
-5. Your API server is now available at: `https://<your-app-name>.herokuapp.com/`.
+5. Your API server version is now available at: `https://<your-app-name>.herokuapp.com/api/version`.
 
 ## Updating Python packages
 
