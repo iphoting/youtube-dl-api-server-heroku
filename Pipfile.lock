@@ -25,8 +25,8 @@
             "hash": "sha256:cbb3fcf8d3e33df861709ecaf89d9e6629cff0a217bc2848f1b41cd30d360519"
         },
         "youtube-dl": {
-            "version": "==2017.1.28",
-            "hash": "sha256:d7cd23397c2c43a502b5522bcc160fbda2ce779135a6e701a2f1cbddd58cc157"
+            "version": "==2017.2.24.1",
+            "hash": "sha256:f0099af32c80f5619c896a5de6ef9eb544ba065d3a1a586fc95edaaa25aa801b"
         },
         "click": {
             "version": "==6.7",
