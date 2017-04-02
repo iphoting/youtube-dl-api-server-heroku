@@ -1,55 +1,21 @@
 {
-    "default": {
-        "MarkupSafe": {
-            "version": "==0.23",
-            "hash": "sha256:a4ec1aff59b95a14b45eb2e23761a0179e98319da5a7eb76b56ea8cdc7b871c3"
-        },
-        "Jinja2": {
-            "version": "==2.9.5",
-            "hash": "sha256:a7b7438120dbe76a8e735ef7eba6048eaf4e0b7dbc530e100812f8ec462a4d50"
-        },
-        "gunicorn": {
-            "version": "==19.6.0",
-            "hash": "sha256:723234ea1fa8dff370ab69830ba8bc37469a7cba13fd66055faeef24085e6530"
-        },
-        "Werkzeug": {
-            "version": "==0.11.15",
-            "hash": "sha256:c6f6f89124df0514d886782c658c3e12f2caaa94da34cee3fd82eebf4ebf052b"
-        },
-        "Flask": {
-            "version": "==0.12",
-            "hash": "sha256:7f03bb2c255452444f7265eddb51601806e5447b6f8a2d50bbc77a654a14c118"
-        },
-        "itsdangerous": {
-            "version": "==0.24",
-            "hash": "sha256:cbb3fcf8d3e33df861709ecaf89d9e6629cff0a217bc2848f1b41cd30d360519"
-        },
-        "youtube-dl": {
-            "version": "==2017.2.24.1",
-            "hash": "sha256:f0099af32c80f5619c896a5de6ef9eb544ba065d3a1a586fc95edaaa25aa801b"
-        },
-        "click": {
-            "version": "==6.7",
-            "hash": "sha256:29f99fc6125fbc931b758dc053b3114e55c77a6e4c6c3a2674a2dc986016381d"
-        },
-        "youtube_dl_server": {
-            "version": "==0.3",
-            "hash": "sha256:c384804522f0943cf4134603da342af1901fd42eb1ce75c8af1eda2e71beafba"
-        }
-    },
-    "develop": {},
     "_meta": {
+        "hash": {
+            "sha256": "3eeb29addc2a047105315c9e66e50f5630ad9feca1fa2eebf627f72199faf767"
+        },
+        "requires": {
+            "python_version": "2.7"
+        },
         "sources": [
             {
                 "url": "https://pypi.org/",
                 "verify_ssl": true
             }
-        ],
-        "requires": {
-            "python_version": "2.7"
-        },
-        "hash": {
-            "sha256": "3eeb29addc2a047105315c9e66e50f5630ad9feca1fa2eebf627f72199faf767"
-        }
-    }
+        ]
+    },
+    "default": {
+        "gunicorn": "*",
+        "youtube_dl_server": ">=0.3"
+    },
+    "develop": {}
 }
