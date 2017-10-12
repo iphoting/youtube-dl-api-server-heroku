@@ -1,0 +1,12 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  sha: v1.0.0
+  hooks:
+    - id: check-json
+    - id: check-merge-conflict
+    - id: end-of-file-fixer
+    - id: mixed-line-ending
+      args: [--fix=no]
+    - id: pretty-format-json
+      args: [--autofix, --indent=2, --no-sort-keys]
+    - id: trailing-whitespace

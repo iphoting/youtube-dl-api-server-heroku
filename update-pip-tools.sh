@@ -6,4 +6,3 @@ pip install -U pip-tools
 pip-compile --upgrade
 pip-sync
 #deactivate
-

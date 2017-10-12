@@ -1,7 +1,12 @@
 {
   "name": "youtube-dl-api-server",
   "repository": "https://github.com/iphoting/youtube-dl-api-server-heroku",
-  "keywords": ["heroku", "youtube-dl", "rest-api", "python"],
+  "keywords": [
+    "heroku",
+    "youtube-dl",
+    "rest-api",
+    "python"
+  ],
   "success_url": "/api/version",
   "image": "heroku/python"
 }
