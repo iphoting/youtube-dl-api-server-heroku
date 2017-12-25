@@ -8,8 +8,8 @@ click==6.7                # via flask
 flask==0.12.2             # via youtube-dl-server
 gunicorn==19.7.1
 itsdangerous==0.24        # via flask
-jinja2==2.9.6             # via flask
+jinja2==2.10              # via flask
 markupsafe==1.0           # via jinja2
-werkzeug==0.12.2          # via flask
+werkzeug==0.13            # via flask
 youtube-dl-server==0.3
-youtube-dl==2017.10.12    # via youtube-dl-server
+youtube-dl==2017.12.23    # via youtube-dl-server
