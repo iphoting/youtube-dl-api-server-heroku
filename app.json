@@ -7,6 +7,14 @@
     "rest-api",
     "python"
   ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/stomita/heroku-buildpack-phantomjs.git"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ],
   "success_url": "/api/version",
   "image": "heroku/python"
 }
