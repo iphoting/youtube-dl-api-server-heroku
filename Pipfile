@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+gunicorn = "*"
+youtube-dl-server = ">=0.3"
+
+[dev-packages]
+
+[requires]
+python_version = "2.7"
