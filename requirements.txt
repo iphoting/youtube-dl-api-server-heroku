@@ -32,7 +32,7 @@ werkzeug==0.14.1 \
 youtube-dl-server==0.3 \
     --hash=sha256:6ecaaec0f93be49a1127393c5c5d6bba8a578214e93a5b65a7fa13b4e143eeff \
     --hash=sha256:c384804522f0943cf4134603da342af1901fd42eb1ce75c8af1eda2e71beafba
-youtube-dl==2018.9.1 \
-    --hash=sha256:eed678353137491fa15ac2bc99ae2bff5cea7af1ce00798aef94c4a5a1b6f06c \
-    --hash=sha256:f161e77d3cbcb5e8ec2a414c137ce97df2f1f38117b22090dfdf858af6a1fe85 \
+youtube-dl==2018.9.8 \
+    --hash=sha256:42c2e82280c943ce618969c3ceeea56666554f311e86a8082c72ec91a63885a9 \
+    --hash=sha256:fc7d1c9e69c44cdf3b11b056d382502e1851bdcd900ff0ced61b6c65d2e4098c \
     # via youtube-dl-server
