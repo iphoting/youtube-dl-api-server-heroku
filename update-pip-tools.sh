@@ -5,5 +5,9 @@
 #workon iphoting-yt-dl-api
 pip-compile --upgrade --generate-hashes
 pipenv lock
-#pip-sync
+pip-sync ; pip install -r requirements-dev.txt
+
+## test
+#honcho start web
+
 #deactivate

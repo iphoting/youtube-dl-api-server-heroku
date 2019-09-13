@@ -2,3 +2,4 @@ virtualenvwrapper
 pip-tools
 pipenv
 pre-commit
+honcho
