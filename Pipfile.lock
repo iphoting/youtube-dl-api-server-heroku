@@ -45,10 +45,10 @@
         },
         "jinja2": {
             "hashes": [
-                "sha256:065c4f02ebe7f7cf559e49ee5a95fb800a9e4528727aec6f24402a5374c65013",
-                "sha256:14dd6caf1527abb21f08f86c784eac40853ba93edb79552aa1e4b8aef1b61c7b"
+                "sha256:74320bb91f31270f9551d46522e33af46a80c3d619f4a4bf42b3164d30b5911f",
+                "sha256:9fe95f19286cfefaa917656583d020be14e7859c6b0252588391e47db34527de"
             ],
-            "version": "==2.10.1"
+            "version": "==2.10.3"
         },
         "markupsafe": {
             "hashes": [
@@ -85,17 +85,17 @@
         },
         "werkzeug": {
             "hashes": [
-                "sha256:00d32beac38fcd48d329566f80d39f10ec2ed994efbecfb8dd4b320062d05902",
-                "sha256:0a24d43be6a7dce81bae05292356176d6c46d63e42a0dd3f9504b210a9cfaa43"
+                "sha256:7280924747b5733b246fe23972186c6b348f9ae29724135a6dfc1e53cea433e7",
+                "sha256:e5f4a1f98b52b18a93da705a7458e55afb26f32bff83ff5d19189f92462d65c4"
             ],
-            "version": "==0.15.6"
+            "version": "==0.16.0"
         },
         "youtube-dl": {
             "hashes": [
-                "sha256:6a42947dc0d9f26881260caf7d03dab0e53b2448e141a20566b57b6b388a5153",
-                "sha256:d61dd64e81a4cc026726b25981faf8ef8453363598483d51f7dc6f6d5580a78f"
+                "sha256:1932f3b7f903bc64ced9e92b1006d7c6a69aac0755cba61b871009d5facd5069",
+                "sha256:4f4668392f9675d19bc9bd0d5d40017d2f3f43ae8be3e5b9926101d18a374f1c"
             ],
-            "version": "==2019.9.12.1"
+            "version": "==2019.9.28"
         },
         "youtube-dl-server": {
             "hashes": [
