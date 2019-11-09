@@ -31,10 +31,10 @@
         },
         "gunicorn": {
             "hashes": [
-                "sha256:aa8e0b40b4157b36a5df5e599f45c9c76d6af43845ba3b3b0efe2c70473c2471",
-                "sha256:fa2662097c66f920f53f70621c6c58ca4a3c4d3434205e608e121b5b3b71f4f3"
+                "sha256:0806b5e8a2eb8ba9ac1be65d7b743ec896fc25f5d6cb16c5e051540157b315bb",
+                "sha256:ef69dea4814df95e64e3f40b47b7ffedc6911c5009233be9d01cfd0d14aa3f50"
             ],
-            "version": "==19.9.0"
+            "version": "==20.0.0"
         },
         "itsdangerous": {
             "hashes": [
@@ -92,10 +92,10 @@
         },
         "youtube-dl": {
             "hashes": [
-                "sha256:0b6611807b0bb978a0384ddebf215ea1f974ecf73d80d04e9f614ff30b1443f0",
-                "sha256:b14fcb8f67a8bd334aa5de0937433e626729a18df5d538a8b94eaf70101493c5"
+                "sha256:1314de17f0d41c0f1062c4942406b8e0558d14d44b32f9fce00272760a06455b",
+                "sha256:25324aab78df9a09b2ee34f642f116933134bc66ea629a778c1fffe05b66f733"
             ],
-            "version": "==2019.10.29"
+            "version": "==2019.11.5"
         },
         "youtube-dl-server": {
             "hashes": [
