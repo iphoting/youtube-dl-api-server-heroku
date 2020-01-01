@@ -92,10 +92,10 @@
         },
         "youtube-dl": {
             "hashes": [
-                "sha256:54067a50647e2ba159544bf50f8c5f749cada39c7815ab097a89c11b820a0712",
-                "sha256:5f73e8c66c07d632b0fc69f715247fe76f38a28c0c5f13bd0651ecd193c2f1c6"
+                "sha256:0f8e62b5a3a5bb8bdf3d7ae3ec96c233f5110fa0ee1c9df51299b6636ebd4ff4",
+                "sha256:3538410130b3adb4690955b2454bfe212d94babefd822aadae4a2b263c421be4"
             ],
-            "version": "==2019.12.25"
+            "version": "==2020.1.1"
         },
         "youtube-dl-server": {
             "hashes": [
