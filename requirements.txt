@@ -4,9 +4,9 @@
 #
 #    pip-compile --generate-hashes
 #
-click==7.0 \
-    --hash=sha256:2335065e6395b9e67ca716de5f7526736bfa6ceead690adf616d925bdc622b13 \
-    --hash=sha256:5b94b49521f6456670fdb30cd82a4eca9412788a93fa6dd6df72c94d5a8ff2d7 \
+click==7.1.1 \
+    --hash=sha256:8a18b4ea89d8820c5d0c7da8a64b2c324b4dabb695804dbfea19b9be9d88c0cc \
+    --hash=sha256:e345d143d80bf5ee7534056164e5e112ea5e22716bbb1ce727941f4c8b471b9a \
     # via flask
 flask==1.1.1 \
     --hash=sha256:13f9f196f330c7c2c5d7a5cf91af894110ca0215ac051b5844701f2bfd934d52 \
@@ -67,9 +67,9 @@ youtube-dl-server==0.3 \
     --hash=sha256:6ecaaec0f93be49a1127393c5c5d6bba8a578214e93a5b65a7fa13b4e143eeff \
     --hash=sha256:c384804522f0943cf4134603da342af1901fd42eb1ce75c8af1eda2e71beafba \
     # via -r requirements.in
-youtube-dl==2020.3.1 \
-    --hash=sha256:4b2d3f29c0995b3351cc48511fa9d76a9d925468ddecc6fe27abbcb6ef08deaa \
-    --hash=sha256:fe617fa21730da7b5200b7655737c54ba4e4cf0978a2a7adcfb2ea6c679b7f8a \
+youtube-dl==2020.3.8 \
+    --hash=sha256:1b098b7ae41551f46dbae70e56dbabdf39c8faf50e072d0c0b42c44d64afebf8 \
+    --hash=sha256:f9d33129ea4941bea234cdba811c0f97e61c2235a877cf395a869aeea065e009 \
     # via youtube-dl-server
 
 # WARNING: The following packages were not pinned, but pip requires them to be
