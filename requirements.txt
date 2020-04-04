@@ -8,9 +8,9 @@ click==7.1.1 \
     --hash=sha256:8a18b4ea89d8820c5d0c7da8a64b2c324b4dabb695804dbfea19b9be9d88c0cc \
     --hash=sha256:e345d143d80bf5ee7534056164e5e112ea5e22716bbb1ce727941f4c8b471b9a \
     # via flask
-flask==1.1.1 \
-    --hash=sha256:13f9f196f330c7c2c5d7a5cf91af894110ca0215ac051b5844701f2bfd934d52 \
-    --hash=sha256:45eb5a6fd193d6cf7e0cf5d8a5b31f83d5faae0293695626f539a823e93b13f6 \
+flask==1.1.2 \
+    --hash=sha256:4efa1ae2d7c9865af48986de8aeb8504bf32c7f3d6fdc9353d34b21f4b127060 \
+    --hash=sha256:8a4fdd8936eba2512e9c85df320a37e694c93945b33ef33c89946a340a238557 \
     # via youtube-dl-server
 gunicorn==20.0.4 \
     --hash=sha256:1904bb2b8a43658807108d59c3f3d56c2b6121a701161de0ddf9ad140073c626 \
@@ -59,17 +59,17 @@ markupsafe==1.1.1 \
     --hash=sha256:e249096428b3ae81b08327a63a485ad0878de3fb939049038579ac0ef61e17e7 \
     --hash=sha256:e8313f01ba26fbbe36c7be1966a7b7424942f670f38e666995b88d012765b9be \
     # via jinja2
-werkzeug==1.0.0 \
-    --hash=sha256:169ba8a33788476292d04186ab33b01d6add475033dfc07215e6d219cc077096 \
-    --hash=sha256:6dc65cf9091cf750012f56f2cad759fa9e879f511b5ff8685e456b4e3bf90d16 \
+werkzeug==1.0.1 \
+    --hash=sha256:2de2a5db0baeae7b2d2664949077c2ac63fbd16d98da0ff71837f7d1dea3fd43 \
+    --hash=sha256:6c80b1e5ad3665290ea39320b91e1be1e0d5f60652b964a3070216de83d2e47c \
     # via flask
 youtube-dl-server==0.3 \
     --hash=sha256:6ecaaec0f93be49a1127393c5c5d6bba8a578214e93a5b65a7fa13b4e143eeff \
     --hash=sha256:c384804522f0943cf4134603da342af1901fd42eb1ce75c8af1eda2e71beafba \
     # via -r requirements.in
-youtube-dl==2020.3.8 \
-    --hash=sha256:1b098b7ae41551f46dbae70e56dbabdf39c8faf50e072d0c0b42c44d64afebf8 \
-    --hash=sha256:f9d33129ea4941bea234cdba811c0f97e61c2235a877cf395a869aeea065e009 \
+youtube-dl==2020.3.24 \
+    --hash=sha256:4b03efe439f7cae26eba909821d1df00a9a4eb82741cb2e8b78fe29702bd4633 \
+    --hash=sha256:c0be39ea9bca72fa02a0d2d043c5e9bd8ea8e0fe79705e891161d6fcd29da59e \
     # via youtube-dl-server
 
 # WARNING: The following packages were not pinned, but pip requires them to be
