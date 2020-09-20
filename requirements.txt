@@ -67,9 +67,9 @@ youtube-dl-server==0.3 \
     --hash=sha256:6ecaaec0f93be49a1127393c5c5d6bba8a578214e93a5b65a7fa13b4e143eeff \
     --hash=sha256:c384804522f0943cf4134603da342af1901fd42eb1ce75c8af1eda2e71beafba \
     # via -r requirements.in
-youtube-dl==2020.9.6 \
-    --hash=sha256:ddfbc48793a24f58aba94e61b969003506ab259757b6cb7cb64eb37c1ca8415c \
-    --hash=sha256:eced5195e3264c36d2d62610bf235f75b592d5bb2f8ac424fd8da54ee426cd75 \
+youtube-dl==2020.9.20 \
+    --hash=sha256:012de159061570a6107e2da9a24d9ce628f045604471192f4b66236a6915a1f8 \
+    --hash=sha256:67fb9bfa30f5b8f06227c478a8a6ed04af1f97ad4e81dd7e2ce518df3e275391 \
     # via youtube-dl-server
 
 # WARNING: The following packages were not pinned, but pip requires them to be
