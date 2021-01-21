@@ -56,7 +56,7 @@ pre-commit==2.9.3 \
     --hash=sha256:6c86d977d00ddc8a60d68eec19f51ef212d9462937acf3ea37c7adec32284ac0 \
     --hash=sha256:ee784c11953e6d8badb97d19bc46b997a3a9eded849881ec587accd8608d74a4 \
     # via -r requirements-dev.in
-pyyaml==5.3.1 \
+pyyaml==5.4 \
     --hash=sha256:06a0d7ba600ce0b2d2fe2e78453a470b5a6e000a985dd4a4e54e436cc36b0e97 \
     --hash=sha256:240097ff019d7c70a4922b6869d8a86407758333f02203e0fc6ff79c5dcede76 \
     --hash=sha256:4f4b913ca1a7319b33cfb1369e91e50354d6f07a135f3b901aca02aa95940bd2 \
