@@ -122,10 +122,10 @@
         },
         "youtube-dl": {
             "hashes": [
-                "sha256:831a29b2d34493ef8181ff288f403135bb4b00df1cd201eb8cbe80b5b5425760",
-                "sha256:b337f20563094decc6b3c16e6fcad14ec3df9d99519344d6e95e40878b2c8075"
+                "sha256:b390cddbd4d605bd887d0d4063988cef0fa13f916d2e1e3564badbb22504d754",
+                "sha256:e7d48cd42f3081e1e0064e69f31f2856508ef31c0fc80eeebd8e70c6a031a24d"
             ],
-            "version": "==2021.2.4.1"
+            "version": "==2021.2.10"
         },
         "youtube-dl-server": {
             "hashes": [
@@ -226,10 +226,10 @@
         },
         "pre-commit": {
             "hashes": [
-                "sha256:391ed331fdd0a21d0be48c1b9919921e9d372dfd60f6dc77b8f01dd6b13161c1",
-                "sha256:f413348d3a8464b77987e36ef6e02c3372dadb823edf0dfe6fb0c3dc2f378ef9"
+                "sha256:16212d1fde2bed88159287da88ff03796863854b04dc9f838a55979325a3d20e",
+                "sha256:399baf78f13f4de82a29b649afd74bef2c4e28eb4f021661fc7f29246e8c7a3a"
             ],
-            "version": "==2.10.0"
+            "version": "==2.10.1"
         },
         "pyyaml": {
             "hashes": [
