@@ -122,10 +122,10 @@
         },
         "youtube-dl": {
             "hashes": [
-                "sha256:adcdec2b72ab7b68cd50a4d1e6581173353bcd6f0be175824a4b72ae890d9ae7",
-                "sha256:e8f3074267547bb11b84a6239937bc8c0a6d19419b852eff4e405d62a4f4bf94"
+                "sha256:02432aa2dd0e859e64d74fca2ad624abf3bead3dba811d594100e1cb7897dce7",
+                "sha256:28663ce51bb35d0a0fa764aed3492b38c570da0a5a62fef3c28f4431522a6d4a"
             ],
-            "version": "==2021.2.22"
+            "version": "==2021.3.3"
         },
         "youtube-dl-server": {
             "hashes": [
@@ -189,11 +189,11 @@
         },
         "identify": {
             "hashes": [
-                "sha256:de7129142a5c86d75a52b96f394d94d96d497881d2aaf8eafe320cdbe8ac4bcc",
-                "sha256:e0dae57c0397629ce13c289f6ddde0204edf518f557bfdb1e56474aa143e77c3"
+                "sha256:2179e7359471ab55729f201b3fdf7dc2778e221f868410fedcb0987b791ba552",
+                "sha256:2a5fdf2f5319cc357eda2550bea713a404392495961022cf2462624ce62f0f46"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
-            "version": "==1.5.14"
+            "markers": "python_full_version >= '3.6.1'",
+            "version": "==2.1.0"
         },
         "nodeenv": {
             "hashes": [
@@ -226,10 +226,10 @@
         },
         "pre-commit": {
             "hashes": [
-                "sha256:16212d1fde2bed88159287da88ff03796863854b04dc9f838a55979325a3d20e",
-                "sha256:399baf78f13f4de82a29b649afd74bef2c4e28eb4f021661fc7f29246e8c7a3a"
+                "sha256:06f8cb95e29e56788fb5dc98d7ca7a714969dc96633e1ba654ccd5953b64c195",
+                "sha256:c4853e29c24b27d81359357fae891e00bc83e6a0575c93d815e0e8077bd53b3b"
             ],
-            "version": "==2.10.1"
+            "version": "==2.11.0"
         },
         "pyyaml": {
             "hashes": [

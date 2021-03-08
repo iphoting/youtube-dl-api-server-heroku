@@ -34,9 +34,9 @@ honcho==1.0.1 \
     --hash=sha256:af5806bf13e3b20acdcb9ff8c0beb91eee6fe07393c3448dfad89667e6ac7576 \
     --hash=sha256:c189402ad2e337777283c6a12d0f4f61dc6dd20c254c9a3a4af5087fc66cea6e
     # via -r requirements-dev.in
-identify==1.5.14 \
-    --hash=sha256:de7129142a5c86d75a52b96f394d94d96d497881d2aaf8eafe320cdbe8ac4bcc \
-    --hash=sha256:e0dae57c0397629ce13c289f6ddde0204edf518f557bfdb1e56474aa143e77c3
+identify==2.1.0 \
+    --hash=sha256:2179e7359471ab55729f201b3fdf7dc2778e221f868410fedcb0987b791ba552 \
+    --hash=sha256:2a5fdf2f5319cc357eda2550bea713a404392495961022cf2462624ce62f0f46
     # via pre-commit
 nodeenv==1.5.0 \
     --hash=sha256:5304d424c529c997bc888453aeaa6362d242b6b4631e90f3d4bf1b290f1c84a9 \
@@ -54,9 +54,9 @@ pipenv==2020.11.15 \
     --hash=sha256:4ab2f60742184d851ac44b9e1d423afe71dc2ea7a68bde07eb890c8b4ce5a420 \
     --hash=sha256:8253fe6f9cfb3791a54da8a0571f73c918cb3457dd908684c1800a13a06ec4c1
     # via -r requirements-dev.in
-pre-commit==2.10.1 \
-    --hash=sha256:16212d1fde2bed88159287da88ff03796863854b04dc9f838a55979325a3d20e \
-    --hash=sha256:399baf78f13f4de82a29b649afd74bef2c4e28eb4f021661fc7f29246e8c7a3a
+pre-commit==2.11.0 \
+    --hash=sha256:06f8cb95e29e56788fb5dc98d7ca7a714969dc96633e1ba654ccd5953b64c195 \
+    --hash=sha256:c4853e29c24b27d81359357fae891e00bc83e6a0575c93d815e0e8077bd53b3b
     # via -r requirements-dev.in
 pyyaml==5.4.1 \
     --hash=sha256:08682f6b72c722394747bddaf0aa62277e02557c0fd1c42cb853016a38f8dedf \
