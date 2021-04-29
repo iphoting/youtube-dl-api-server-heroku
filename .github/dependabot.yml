@@ -1,0 +1,28 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "06:00"
+    timezone: Asia/Singapore
+  open-pull-requests-limit: 10
+  reviewers:
+  - iphoting
+  assignees:
+  - iphoting
+  versioning-strategy: lockfile-only
+  ignore:
+  - dependency-name: gunicorn
+    versions:
+    - 20.1.0
+  - dependency-name: pip-tools
+    versions:
+    - 6.0.0
+    - 6.0.1
+  - dependency-name: pre-commit
+    versions:
+    - 2.10.0
+    - 2.10.1
+    - 2.11.0
+    - 2.11.1
