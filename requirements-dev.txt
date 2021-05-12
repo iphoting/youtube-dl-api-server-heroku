@@ -16,9 +16,9 @@ cfgv==3.2.0 \
     --hash=sha256:32e43d604bbe7896fe7c248a9c2276447dbef840feb28fe20494f62af110211d \
     --hash=sha256:cf22deb93d4bcf92f345a5c3cd39d3d41d6340adc60c78bbbd6588c384fda6a1
     # via pre-commit
-click==7.1.2 \
-    --hash=sha256:d2b5255c7c6349bc1bd1e59e08cd12acbbd63ce649f2588755783aa94dfb6b1a \
-    --hash=sha256:dacca89f4bfadd5de3d7489b7c8a566eee0d3676333fbb50030263894c38c0dc
+click==8.0.0 \
+    --hash=sha256:7d8c289ee437bcb0316820ccee14aefcb056e58d31830ecab8e47eda6540e136 \
+    --hash=sha256:e90e62ced43dc8105fb9a26d62f0d9340b5c8db053a814e25d95c19873ae87db
     # via
     #   -c requirements.txt
     #   pip-tools
@@ -34,33 +34,33 @@ honcho==1.0.1 \
     --hash=sha256:af5806bf13e3b20acdcb9ff8c0beb91eee6fe07393c3448dfad89667e6ac7576 \
     --hash=sha256:c189402ad2e337777283c6a12d0f4f61dc6dd20c254c9a3a4af5087fc66cea6e
     # via -r requirements-dev.in
-identify==2.2.2 \
-    --hash=sha256:43cb1965e84cdd247e875dec6d13332ef5be355ddc16776396d98089b9053d87 \
-    --hash=sha256:c7c0f590526008911ccc5ceee6ed7b085cbc92f7b6591d0ee5913a130ad64034
+identify==2.2.4 \
+    --hash=sha256:9bcc312d4e2fa96c7abebcdfb1119563b511b5e3985ac52f60d9116277865b2e \
+    --hash=sha256:ad9f3fa0c2316618dc4d840f627d474ab6de106392a4f00221820200f490f5a8
     # via pre-commit
-nodeenv==1.5.0 \
-    --hash=sha256:5304d424c529c997bc888453aeaa6362d242b6b4631e90f3d4bf1b290f1c84a9 \
-    --hash=sha256:ab45090ae383b716c4ef89e690c41ff8c2b257b85b309f01f3654df3d084bd7c
+nodeenv==1.6.0 \
+    --hash=sha256:3ef13ff90291ba2a4a7a4ff9a979b63ffdd00a464dbe04acf0ea6471517a4c2b \
+    --hash=sha256:621e6b7076565ddcacd2db0294c0381e01fd28945ab36bcf00f41c5daf63bef7
     # via pre-commit
-pbr==5.5.1 \
-    --hash=sha256:5fad80b613c402d5b7df7bd84812548b2a61e9977387a80a5fc5c396492b13c9 \
-    --hash=sha256:b236cde0ac9a6aedd5e3c34517b423cd4fd97ef723849da6b0d2231142d89c00
+pbr==5.6.0 \
+    --hash=sha256:42df03e7797b796625b1029c0400279c7c34fd7df24a7d7818a1abb5b38710dd \
+    --hash=sha256:c68c661ac5cc81058ac94247278eeda6d2e6aecb3e227b0387c30d277e7ef8d4
     # via stevedore
 pep517==0.10.0 \
     --hash=sha256:ac59f3f6b9726a49e15a649474539442cf76e0697e39df4869d25e68e880931b \
     --hash=sha256:eba39d201ef937584ad3343df3581069085bacc95454c80188291d5b3ac7a249
     # via pip-tools
-pip-tools==6.0.1 \
-    --hash=sha256:3b0c7b95e8d3dfb011bb42cb38f356fcf5d0630480462b59c4d0a112b8d90281 \
-    --hash=sha256:50ec26df7710557ab574f19f7511830294999e6121b42b87473b48cb9984d788
+pip-tools==6.1.0 \
+    --hash=sha256:197e3f8839095ccec3ad1ef410e0804c07d9f17dff1c340fb417ca2b63feacc9 \
+    --hash=sha256:400bf77e29cca48c31abc210042932bb52dcc138ef4ea4d52c5db429aa8ae6ee
     # via -r requirements-dev.in
 pipenv==2020.11.15 \
     --hash=sha256:4ab2f60742184d851ac44b9e1d423afe71dc2ea7a68bde07eb890c8b4ce5a420 \
     --hash=sha256:8253fe6f9cfb3791a54da8a0571f73c918cb3457dd908684c1800a13a06ec4c1
     # via -r requirements-dev.in
-pre-commit==2.12.0 \
-    --hash=sha256:029d53cb83c241fe7d66eeee1e24db426f42c858f15a38d20bcefd8d8e05c9da \
-    --hash=sha256:46b6ffbab37986c47d0a35e40906ae029376deed89a0eb2e446fb6e67b220427
+pre-commit==2.12.1 \
+    --hash=sha256:70c5ec1f30406250b706eda35e868b87e3e4ba099af8787e3e8b4b01e84f4712 \
+    --hash=sha256:900d3c7e1bf4cf0374bb2893c24c23304952181405b4d88c9c40b72bda1bb8a9
     # via -r requirements-dev.in
 pyyaml==5.4.1 \
     --hash=sha256:08682f6b72c722394747bddaf0aa62277e02557c0fd1c42cb853016a38f8dedf \
@@ -93,9 +93,9 @@ pyyaml==5.4.1 \
     --hash=sha256:fdc842473cd33f45ff6bce46aea678a54e3d21f1b61a7750ce3c498eedfe25d6 \
     --hash=sha256:fe69978f3f768926cfa37b867e3843918e012cf83f680806599ddce33c2c68b0
     # via pre-commit
-six==1.15.0 \
-    --hash=sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259 \
-    --hash=sha256:8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced
+six==1.16.0 \
+    --hash=sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926 \
+    --hash=sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254
     # via virtualenv
 stevedore==3.3.0 \
     --hash=sha256:3a5bbd0652bf552748871eaa73a4a8dc2899786bc497a2aa1fcb4dcdb0debeee \
@@ -113,9 +113,9 @@ virtualenv-clone==0.5.4 \
     # via
     #   pipenv
     #   virtualenvwrapper
-virtualenv==20.4.3 \
-    --hash=sha256:49ec4eb4c224c6f7dd81bb6d0a28a09ecae5894f4e593c89b0db0885f565a107 \
-    --hash=sha256:83f95875d382c7abafe06bd2a4cdd1b363e1bb77e02f155ebe8ac082a916b37c
+virtualenv==20.4.6 \
+    --hash=sha256:307a555cf21e1550885c82120eccaf5acedf42978fd362d32ba8410f9593f543 \
+    --hash=sha256:72cf267afc04bf9c86ec932329b7e94db6a0331ae9847576daaa7ca3c86b29a4
     # via
     #   pipenv
     #   pre-commit
