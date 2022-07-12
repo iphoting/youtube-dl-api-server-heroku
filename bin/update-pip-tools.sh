@@ -16,8 +16,8 @@ pip install -U pip
 pip install -U -r requirements-dev.txt
 
 echo "Updating project packages..."
-pip-compile --upgrade --generate-hashes
-pip-compile --upgrade --generate-hashes requirements-dev.in
+pip-compile --upgrade
+pip-compile --upgrade requirements-dev.in
 pipenv lock
 
 echo "Syncing venv with latest project packages..."

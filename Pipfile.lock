@@ -258,10 +258,10 @@
         },
         "pipenv": {
             "hashes": [
-                "sha256:2ae7d5fc742c14aa619d19acadd0830f14b1e80d35045e2a67b5af68ffc4d701",
-                "sha256:6ac0e7a8bbe02859d46c53c03d3f33136bbf49c8c7d9a6d818409e17a604eda0"
+                "sha256:18420fbae2851d2b9d70d1e00f77a8c55d09704a177fe872a0a2da56e98eb018",
+                "sha256:55c35a1742d568bb0e521099c5fd7bfd373d41f088160f4ffdd4e6e703d0fd3b"
             ],
-            "version": "==2022.6.7"
+            "version": "==2022.7.4"
         },
         "platformdirs": {
             "hashes": [
@@ -273,10 +273,10 @@
         },
         "pre-commit": {
             "hashes": [
-                "sha256:10c62741aa5704faea2ad69cb550ca78082efe5697d6f04e5710c3c229afdd10",
-                "sha256:4233a1e38621c87d9dda9808c6606d7e7ba0e087cd56d3fe03202a01d2919615"
+                "sha256:51a5ba7c480ae8072ecdb6933df22d2f812dc897d5fe848778116129a681aac7",
+                "sha256:a978dac7bc9ec0bcee55c18a277d553b0f419d259dadb4b9418ff2d00eb43959"
             ],
-            "version": "==2.19.0"
+            "version": "==2.20.0"
         },
         "pyparsing": {
             "hashes": [
