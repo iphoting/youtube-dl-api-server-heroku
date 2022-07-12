@@ -11,4 +11,4 @@ updates:
   - iphoting
   assignees:
   - iphoting
-  versioning-strategy: lockfile-only
+  versioning-strategy: auto
